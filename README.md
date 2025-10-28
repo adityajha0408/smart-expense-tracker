@@ -1,6 +1,6 @@
 # Smart Expense Tracker
 
-Smart Expense Tracker is a **FastAPI-based backend application** to manage expenses, track salaries, and optimize salary expenditure. It features user authentication, expense management, and salary optimization tools.
+Smart Expense Tracker is a **FastAPI-based backend application** to manage expenses, track salaries, and optimize salary expenditure. It features user authentication, expense management, & \salary optimization tools.
 
 ---
 
